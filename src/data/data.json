@@ -2,54 +2,54 @@
     {
         "id": "1",
         "name": "Fan",
-        "image": "src/assets/TableFan.png"
+        "image": "/TableFan.png"
     },
     
     {
         "id": "2",
         "name": "Wire",
-        "image": "src/assets/Wire.png"
+        "image": "/Wire.png"
     },
 
     {
         "id": "3",
         "name": "Refrigerator",
-        "image": "src/assets/Refrigerator.png"
+        "image": "/Refrigerator.png"
     },
 
     {
         "id": "4",
         "name": "Switch",
-        "image": "src/assets/WallSwitch.png"
+        "image": "/WallSwitch.png"
     },
 
     {
         "id": "5",
         "name": "Electric Socket",
-        "image": "src/assets/WallOutlet.png"
+        "image": "/WallOutlet.png"
     },
 
     {
         "id": "6",
         "name": "AC",
-        "image": "src/assets/AC.png"
+        "image": "/AC.png"
     },
 
     {
         "id": "7",
         "name": "Nail",
-        "image": "src/assets/nail.png"
+        "image": "/nail.png"
     },
 
     {
         "id": "8",
         "name": "Home Battery",
-        "image": "src/assets/HomeBattery.png"
+        "image": "/HomeBattery.png"
     },
 
     {
         "id": "9",
         "name": "Battery",
-        "image": "src/assets/9vBattery.png"
+        "image": "/9vBattery.png"
     }
 ]
