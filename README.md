@@ -50,5 +50,5 @@ npm run dev
 - Click the "Check" button to validate the arrangement of cards in each area.
 - Border colors will indicate the correctness of the arrangement (green for correct, red for incorrect).
 
-![alt text](<Screenshot from 2024-04-10 00-25-31.png>)
-![alt text](<Screenshot from 2024-04-10 00-26-05.png>)
+![Screenshot from 2024-04-10 00-25-31](https://github.com/chirag0002/Drag-n-Drop/assets/87241050/801b103a-90d6-4a34-a958-fa27dd5d89d5)
+![Screenshot from 2024-04-10 00-26-05](https://github.com/chirag0002/Drag-n-Drop/assets/87241050/d702636b-ed57-4f1e-b740-53309324c88e)
